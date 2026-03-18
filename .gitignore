@@ -1,0 +1,16 @@
+build/
+node_modules
+frontend/dist
+.DS_Store
+.idea
+.vscode
+*.log
+*.tmp
+*.swp
+*.swo
+config.json
+config.*.json
+!config.example.json
+.env
+.env.*
+frontend/node_modules

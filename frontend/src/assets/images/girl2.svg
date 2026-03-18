@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Hair Back -->
+  <path d="M15,50 Q10,70 20,90 Q50,100 80,90 Q90,70 85,50" fill="#8B4513" />
+  <!-- Face -->
+  <circle cx="50" cy="50" r="35" fill="#FFE0BD" />
+  <!-- Hair Front (Bangs) -->
+  <path d="M15,50 Q25,25 50,25 Q75,25 85,50 Q75,40 50,45 Q25,40 15,50" fill="#8B4513" />
+  <!-- Eyes (Closed Happy) -->
+  <path d="M30,50 Q35,45 40,50" stroke="#333" stroke-width="2" fill="none" />
+  <path d="M60,50 Q65,45 70,50" stroke="#333" stroke-width="2" fill="none" />
+  <!-- Blush -->
+  <circle cx="25" cy="60" r="4" fill="#FF69B4" opacity="0.5" />
+  <circle cx="75" cy="60" r="4" fill="#FF69B4" opacity="0.5" />
+  <!-- Mouth (Smile) -->
+  <path d="M40,65 Q50,75 60,65" stroke="#D08B5B" stroke-width="2" fill="none" />
+  <!-- Cat Ears Headband -->
+  <path d="M25,30 L20,10 L40,25" fill="#333" />
+  <path d="M75,30 L80,10 L60,25" fill="#333" />
+  <path d="M25,30 Q50,20 75,30" stroke="#333" stroke-width="2" fill="none" />
+</svg>
